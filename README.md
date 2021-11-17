@@ -1,2 +1,1 @@
-# dirbuster
-Directory Finder Program in python
+## Directory Finder In python3

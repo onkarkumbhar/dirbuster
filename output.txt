@@ -1,0 +1,3 @@
+http://127.0.0.1:8080/.config      200
+http://127.0.0.1:8080/index.html      200
+http://127.0.0.1:8080/find_me_here.html      200
